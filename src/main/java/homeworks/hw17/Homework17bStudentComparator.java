@@ -1,4 +1,4 @@
-package homeworks;
+package homeworks.hw17;
 
 import java.util.ArrayList;
 

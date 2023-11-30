@@ -1,7 +1,6 @@
-package homeworks;
+package homeworks.hw17;
 
 import java.util.ArrayList;
-import java.util.stream.Collectors;
 
 public class Homework17 {
     public static void main(String[] args) {
