@@ -1,6 +1,6 @@
-package homeworks;
+package homeworks.hw18;
 
-public class YurLitz extends Client{
+public class YurLitz extends Client {
 
 
    public YurLitz(int startingFunds) {

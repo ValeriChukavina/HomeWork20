@@ -1,6 +1,6 @@
-package homeworks;
+package homeworks.hw18;
 
-public class HomeWork18 {
+public class Launcher {
     public static void main(String[] args) {
         FizLitz ivanov = new FizLitz(500);
         ivanov.balance();

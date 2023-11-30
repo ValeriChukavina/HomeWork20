@@ -1,4 +1,4 @@
-package homeworks;
+package homeworks.hw18;
 
 public abstract class Client {
     private int money = 0;

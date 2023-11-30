@@ -1,6 +1,6 @@
-package homeworks;
+package homeworks.hw18;
 
-public class FizLitz extends Client{
+public class FizLitz extends Client {
     public FizLitz (int startingFunds) {
         super(startingFunds);
     }

@@ -1,4 +1,4 @@
-package homeworks;
+package homeworks.hw18;
 
 public class IP extends Client {
 
